@@ -2,7 +2,7 @@
 
 ![image](https://github.com/atul1994s/Global_Terrorism_Analysis_EDA/assets/76198727/ce6c2d59-e1f3-4b90-8fb6-e27d1043607d)
 
-**Introduction**
+##**Introduction**
 
 ## <b> The Global Terrorism Database (GTD) is an open-source database including information on terrorist attacks around the world from 1970 through 2017. The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this period and now includes more than 180,000 attacks. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.</b>
 
@@ -51,7 +51,7 @@ The purpose of analyzing the Global Terrorism Database (GTD) or any dataset rela
 Overall, analyzing global terrorism datasets serves the broader goal of enhancing understanding, improving preparedness, and ultimately reducing the impact of terrorism on societies and communities worldwide.
 
 
-**Analysis**
+## **Analysis**
 
 ![newplot (2)](https://github.com/atul1994s/Global_Terrorism_Analysis_EDA/assets/76198727/f7b6eb7f-7c1e-4cc3-8924-92153ab6086d)
 
